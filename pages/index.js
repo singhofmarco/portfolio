@@ -4,9 +4,9 @@ export default function Home() {
   return (
     <>
     <Head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="description"
-         content="Hey, I'm a full-stack developer creating for the modern web with Laravel, Vue.js and various other state of the art technologies.">
+         content="Hey, I'm a full-stack developer creating for the modern web with Laravel, Vue.js and various other state of the art technologies." />
       <title>Marco Singhof | Full-stack developer</title>
     </Head>
     <div className="bg-gray-100 p-8 md:py-32 font-sans font-light md:text-lg text-gray-900  mx-auto">
