@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-100 p-8 md:py-32 font-sans font-light md:text-lg text-gray-900  mx-auto">
+  <div class="bg-gray-100 p-8 md:py-32 font-sans font-light md:text-lg text-gray-900 mx-auto">
     <div class="max-w-3xl w-full sm:flex mx-auto bg-gray-200 shadow-xl mb-16 items-stretch rounded-lg">
       <div
           class="bg-gray-300 px-6 py-4 md:py-6 md:px-8 flex items-center justify-center rounded-t-lg md:rounded-r-none md:rounded-l-lg">
@@ -45,24 +45,6 @@
 
 <script>
 export default {
-  head: {
-    title: 'Marco Singhof | Full-stack developer',
-    meta: [
-      {
-        hid: 'description',
-        name: 'description',
-        content: 'Hey, I\'m a full-stack developer creating for the modern web with Laravel, Vue.js and various other state of the art technologies.'
-      }
-    ],
-    noscript: [
-      {innerHTML: 'Body No Scripts', body: true}
-    ],
-    script: [
-      {src: '/head.js'},
-      // Supported since 1.0
-      {src: '/body.js', body: true},
-      {src: '/defer.js', defer: ''}
-    ]
-  }
+
 }
 </script>
