@@ -57,12 +57,6 @@ export default {
     noscript: [
       {innerHTML: 'Body No Scripts', body: true}
     ],
-    script: [
-      {src: '/head.js'},
-      // Supported since 1.0
-      {src: '/body.js', body: true},
-      {src: '/defer.js', defer: ''}
-    ]
   }
 }
 </script>
