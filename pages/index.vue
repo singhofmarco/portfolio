@@ -47,15 +47,22 @@
 export default {
   head: {
     title: 'Marco Singhof | Full-stack developer',
+    htmlAttrs: {
+      lang: 'en'
+    },
     meta: [
+      {
+        charset: "utf-8"
+      },
+      {
+        name: "viewport",
+        content: "width=device-width, initial-scale=1",
+      },
       {
         hid: 'description',
         name: 'description',
         content: 'Hey, I\'m a full-stack developer creating for the modern web with Laravel, Vue.js and various other state of the art technologies.'
       }
-    ],
-    noscript: [
-      {innerHTML: 'Body No Scripts', body: true}
     ],
   }
 }
