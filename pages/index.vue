@@ -1,8 +1,8 @@
 <template>
-  <div class="bg-gray-100 p-8 md:py-32 font-sans font-light md:text-lg text-gray-900  mx-auto">
-    <div class="max-w-3xl w-full sm:flex mx-auto bg-gray-200 shadow-xl mb-16 items-stretch rounded-lg  transition duration-100 transform hover:scale-105">
+  <div class="bg-gray-50 p-8 md:py-32 font-sans font-light md:text-lg text-gray-900  mx-auto">
+    <div class="max-w-3xl w-full sm:flex mx-auto bg-gray-100 shadow-xl mb-16 items-stretch rounded-lg  transition duration-100 transform hover:scale-105">
       <div
-          class="bg-gray-300 px-6 py-4 md:py-6 md:px-8 flex items-center justify-center rounded-t-lg md:rounded-r-none md:rounded-l-lg">
+          class="bg-gray-200 px-6 py-4 md:py-6 md:px-8 flex items-center justify-center rounded-t-lg md:rounded-r-none md:rounded-l-lg">
         <picture>
           <source srcSet="/images/profile.webp" type="image/webp"/>
           <source srcSet="/images/profile.jpg" type="image/jpeg"/>
@@ -17,15 +17,15 @@
           <div class="text-base text-gray-700">Munich, Germany</div>
         </div>
         <div class="mt-auto">
-          <a class="transition-colors duration-200 bg-blue-700 hover:bg-blue-800 hover:text-white text-white shadow-lg p-2 px-4 rounded inline-block mt-2"
+          <a class="transition-colors duration-200 bg-blue-600 hover:bg-blue-700 hover:text-white text-white shadow-lg p-2 px-4 rounded inline-block mt-2"
              href="mailto:coffee@singhof.dev">
             Contact me
           </a>
         </div>
       </div>
     </div>
-    <div class="max-w-3xl w-full mx-auto bg-gray-200 shadow-xl  mb-16 rounded-lg">
-      <div class="bg-gray-300 py-2 px-6 md:px-8 rounded-t-lg">
+    <div class="max-w-3xl w-full mx-auto bg-gray-100 shadow-xl  mb-16 rounded-lg">
+      <div class="bg-gray-200 py-2 px-6 md:px-8 rounded-t-lg">
         <h2 class="font-semibold text-xl md:text-2xl">Who am I?</h2>
       </div>
       <div class="py-6 px-6 md:px-8 spaced">
