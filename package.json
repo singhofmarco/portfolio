@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "@nuxt/types": "^2.14.12",
+    "@nuxtjs/color-mode": "^2.0.3",
     "@nuxtjs/tailwindcss": "^3.4.2",
     "postcss-preset-env": "^6.7.0"
   }
