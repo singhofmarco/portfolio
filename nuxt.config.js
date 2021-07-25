@@ -20,5 +20,6 @@ export default {
             'data-site': 'MSVSXYRV',
             'defer': true
         }
-    ]
+    ],
+    target: 'static'
 }
