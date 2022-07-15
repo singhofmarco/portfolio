@@ -39,7 +39,7 @@
           Science at the Ludwig Maximilian University of Munich.</p>
       </div>
     </div>
-    <footer class="text-center text-gray-800 dark:text-gray-400 text-base">&copy; 2021 Marco Singhof</footer>
+    <footer class="text-center text-gray-800 dark:text-gray-400 text-base">&copy; 2022 Marco Singhof</footer>
     <AppColorSwitcher class="mx-auto mt-8"/>
   </div>
 </template>
